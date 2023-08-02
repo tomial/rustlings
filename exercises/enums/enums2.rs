@@ -1,5 +1,7 @@
 // enums2.rs
-// Make me compile! Execute `rustlings hint enums2` for hints!
+//
+// Execute `rustlings hint enums2` or use the `hint` watch subcommand for a
+// hint.
 
 #[derive(Debug)]
 enum Message {
@@ -12,7 +14,7 @@ enum Message {
 
 impl Message {
     fn call(&self) {
-        println!("{:?}", &self);
+        println!("{:?}", self);
     }
 }
 
