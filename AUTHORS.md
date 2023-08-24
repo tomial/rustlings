@@ -320,6 +320,10 @@ authors.
       <td align="center" valign="top" width="12.5%"><a href="https://alexfertel.me"><img src="https://avatars.githubusercontent.com/u/22298999?v=4?s=100" width="100px;" alt="Alexander González"/><br /><sub><b>Alexander González</b></sub></a><br /><a href="#content-alexfertel" title="Content">🖋</a></td>
       <td align="center" valign="top" width="12.5%"><a href="https://github.com/softarn"><img src="https://avatars.githubusercontent.com/u/517619?v=4?s=100" width="100px;" alt="Marcus Höjvall"/><br /><sub><b>Marcus Höjvall</b></sub></a><br /><a href="#content-softarn" title="Content">🖋</a></td>
     </tr>
+    <tr>
+      <td align="center" valign="top" width="12.5%"><a href="https://github.com/barlevalon"><img src="https://avatars.githubusercontent.com/u/3397911?v=4?s=100" width="100px;" alt="Alon Hearter"/><br /><sub><b>Alon Hearter</b></sub></a><br /><a href="#content-barlevalon" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="12.5%"><a href="https://github.com/shirts"><img src="https://avatars.githubusercontent.com/u/4952151?v=4?s=100" width="100px;" alt="shirts"/><br /><sub><b>shirts</b></sub></a><br /><a href="#content-shirts" title="Content">🖋</a></td>
+    </tr>
   </tbody>
 </table>
 
